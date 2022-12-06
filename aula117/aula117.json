@@ -1,0 +1,23 @@
+{
+  "nome": "André Roberto",
+  "sobrenome": "Salvador",
+  "endereco": [
+    {
+      "rua": "R1",
+      "numero": 32
+    },
+    {
+      "rua": "R2",
+      "numero": 55
+    }
+  ],
+  "altura": 1.8,
+  "numeros_preferidos": [
+    2,
+    4,
+    7,
+    12
+  ],
+  "dev": true,
+  "nada": null
+}

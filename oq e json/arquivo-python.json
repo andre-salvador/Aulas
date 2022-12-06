@@ -1,0 +1,44 @@
+[
+  {
+    "nome": "Maria",
+    "sobrenome": "Vieira",
+    "idade": 25,
+    "ativo": false,
+    "notas": [
+      "A",
+      "A+"
+    ],
+    "telefones": {
+      "residencial": "00 0000-0000",
+      "celular": "00 00000-0000"
+    }
+  },
+  {
+    "nome": "Marcos",
+    "sobrenome": "Santana",
+    "idade": 23,
+    "ativo": true,
+    "notas": [
+      "B",
+      "A"
+    ],
+    "telefones": {
+      "residencial": "00 0000-0000",
+      "celular": "00 00000-0000"
+    }
+  },
+  {
+    "nome": "Joana",
+    "sobrenome": "Moreira",
+    "idade": 32,
+    "ativo": false,
+    "notas": [
+      "A",
+      "A+"
+    ],
+    "telefones": {
+      "residencial": "00 0000-0000",
+      "celular": "00 00000-0000"
+    }
+  }
+]
